@@ -26,6 +26,7 @@ Select what you need in the password and get a different result every time!
   ## Live Demo
 
   Check out the live version here:
+
   [https://b-got-banned.github.io/random-password-generator/](https://b-got-banned.github.io/random-password-generator/)
 
   ---
