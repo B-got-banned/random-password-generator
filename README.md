@@ -31,4 +31,4 @@ Select what you need in the password and get a different result every time!
 
   ---
 
-  Made with 🩶 by B-got-banned
+  Made with 🩶 by [B-got-banned](https://github.com/B-got-banned)
